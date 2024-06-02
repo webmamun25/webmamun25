@@ -1,30 +1,8 @@
-# Responsive Full Background Image Using CSS
-[![Responsive Full Background Image](http://cdn.sixrevisions.com/0431-02_responsive_background_demo_ss.jpg)](http://sixrevisions.com/css/responsive-background-image/)
 
-## Demo
-View the [demo on Six Revisions](http://cdn.sixrevisions.com/0431-01_responsive_background_image_demo/responsive-full-background-image-demo.html).
-
-## What Is This?
-These are the sources files for a Six Revisions tutorial called [Responsive Full Background Image Using CSS](http://sixrevisions.com/css/responsive-background-image/).
-
-* `responsive-full-background-image.css` - this contains the CSS for achieving the responsive full background image
-* `responsive-full-background-image-demo.html` - this is the HTML source code
-* Files in the `/presentational-only` are not required. They're purely for demonstrative purposes.
-* `/images` directory contains the background images. The background image is from [Unsplash](http://unsplash.com/).
-
-## Basics
-The most important property/value pair is `background-size: cover`, which dynamically scales the background image to cover the viewport even when it's resized. Responsive full background image can be achieved using this simple style rule:
-
-```
-background: url(background-photo.jpg) center center cover no-repeat fixed;
-```
-
-For a faster page load on small screens (i.e., mobile devices) a scaled-down version of the background image is served using a media query.
-
-For a complete explanation, read this tutorial: [Responsive Full Background Image Using CSS](http://sixrevisions.com/css/responsive-background-image/).
 
 <h1 align="center">Hi 👋, I'm MD RASHEDUL ISLAM MAMUN</h1>
 <h3 align="center">A passionate Frontend Developer and ML Enthusiast</h3>
+![Uploading background.jpg…]()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webmamun25&label=Profile%20views&color=0e75b6&style=flat" alt="webmamun25" /> </p>
 
